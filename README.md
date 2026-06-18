@@ -19,7 +19,8 @@ Link to project submission: https://roadmap.sh/projects/titanic-eda-python/solut
 Dataset
 
 Source: Kaggle Titanic Dataset
-File used: train.csv
+
+File used: titanic.csv
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
