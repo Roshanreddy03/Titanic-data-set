@@ -1,7 +1,7 @@
 # Titanic-data-set
 Analysis on titanic dataset downloaded from Kaggle
 
-#🚢 Titanic Survival Analysis (EDA)
+🚢 Titanic Survival Analysis (EDA)
 
 Project Overview
 
@@ -18,6 +18,8 @@ Dataset
 Source: Kaggle Titanic Dataset
 File used: train.csv
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🛠️ Technologies Used
 
 - Python
@@ -25,6 +27,8 @@ File used: train.csv
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔍 Data Exploration Steps
 
@@ -41,6 +45,8 @@ File used: train.csv
 - Used relative frequencies for fair comparison
 
 - Visualized data using bar plots and histograms
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Key Insights
 
@@ -61,6 +67,8 @@ File used: train.csv
 - 1st class females had the highest survival rate
 - 3rd class males had the lowest survival rate
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Visualizations
 
 The notebook includes:
@@ -71,6 +79,8 @@ The notebook includes:
 - Bar Plot: Survival by Passenger Class (Categorical)
 - Bar Plot: Survival by both class and gender
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Conclusion
 
 Survival on the Titanic was strongly influenced by:
@@ -79,7 +89,9 @@ Survival on the Titanic was strongly influenced by:
 - Social class (passenger class)
 - Age (children had better chances)
 
-Future Improvements
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Future Improvements        
 
 - Feature engineering (family size, title extraction)
 - Machine learning model for survival prediction
