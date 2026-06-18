@@ -1,7 +1,7 @@
 # Titanic-data-set
 Analysis on titanic dataset downloaded from Kaggle
 
-🚢 Titanic Survival Analysis (EDA)
+#🚢 Titanic Survival Analysis (EDA)
 
 Project Overview
 
