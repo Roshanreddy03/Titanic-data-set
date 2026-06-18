@@ -96,6 +96,4 @@ Future Improvements
 - Feature engineering (family size, title extraction)
 - Machine learning model for survival prediction
 - More advanced visualizations
-  Feature engineering (family size, title extraction)
-  Machine learning model for survival prediction
-  More advanced visualizations
+
