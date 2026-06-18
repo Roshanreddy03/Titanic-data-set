@@ -1,6 +1,7 @@
 # Titanic-data-set
 Analysis on titanic dataset downloaded from Kaggle
 
+
 🚢 Titanic Survival Analysis (EDA)
 
 Project Overview
@@ -38,9 +39,9 @@ File used: train.csv
 
 - Analyzed survival rates across different features:
 
-  -> Gender
-  -> Passenger Class
-  -> Age Groups
+  - Gender
+  - Passenger Class
+  - Age Groups
 
 - Used relative frequencies for fair comparison
 
