@@ -14,8 +14,6 @@ Using Python and data analysis techniques, we perform exploratory data analysis 
 
 Link to Project Page: https://roadmap.sh/projects/titanic-eda-python
 
-Link to project submission: https://roadmap.sh/projects/titanic-eda-python/solutions?u=6a0d907b11fa913c06a17609
-
 Dataset
 
 Source: Kaggle Titanic Dataset
